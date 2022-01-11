@@ -42,9 +42,9 @@ The main aim of this project is to organize and analyze a database of 4,000 past
 
 Create a report in Microsoft Word and answer the following questions.
 
--Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
--What are some limitations of this dataset?
--What are some other possible tables and/or graphs that we could create?
+    -Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+    -What are some limitations of this dataset?
+    -What are some other possible tables and/or graphs that we could create?
 
 
 
