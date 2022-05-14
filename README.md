@@ -52,7 +52,10 @@ Create a report in Microsoft Word and answer the following questions.
      . What are some limitations of this dataset?
      . What are some other possible tables and/or graphs that we could create?
 
+# Conclusion
 
+As observed under category people participated in the fund campaigns did not seem to be contributing to journalism, in my opinion most journalists today are not more relevant to communities due to many reasons such as technological advancement where citizens could easily have access to relevant information online and the credibility of journalists on not reporting facts rather agenda driven skewed information. The number of backers who have contributed to the campaigns are from United States followed by United Kingdom and Canada.
+Plays have been successfully funded under sub-category among others by far amount followed by rocks and documentary which were slightly funded. The campaign hits its highest success between May and June, then slightly drops through December. The lists of the countries were not orderly set that to assign currency symbols it was tedious. Moreover, the zero values in the data set resulted in error calculations particularly with average calculation where denominator must be used. Given this data set we can also be able to create statistical table to characterize the quantitate metrics.
 
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
