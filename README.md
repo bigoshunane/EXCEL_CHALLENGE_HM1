@@ -43,7 +43,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
     
 ![sub catagory stats](https://user-images.githubusercontent.com/84547558/168671407-79561d13-47dc-4db5-a12b-f0f5028418e9.png)
 
-# 4. Outcomes based on date
+# 4. Outcomes based on launch date
 
   . The format of dates stored within the "deadline" and "launched_at" columns was converted from Unix timestamps format into Excel's date format and
     new columns named "Date Created Conversion" and "Date Ended Conversion" was created respectively.
