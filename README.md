@@ -16,7 +16,9 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 # 1. Kickstar Table
 
-  . Conditional formatting was implimented to fill in each cell in the "state" and "Percent Funded" column with different color, depending on whether the     associated campaign was successful, failed, or canceled, or is currently live. The "Percent Funded" also is newly created to uncover how much money a     campaign made to reach its initial goal.
+   . Conditional formatting was implimented to fill in each cell in the "state" and "Percent Funded" column with different color, depending on 
+      whether the associated campaign was successful, failed, or canceled, or is currently live. The "Percent Funded" also is newly created to 
+      uncover how much money a campaign made to reach its initial goal.
   
  ![kickstart table](https://user-images.githubusercontent.com/84547558/168671178-f088e37d-9071-464b-be8b-b75732fe92da.png)
 
